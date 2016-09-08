@@ -1,6 +1,6 @@
-[![GitHub release](https://img.shields.io/github/release/truenegative/zonesync.svg?maxAge=2592000?style=flat-square)](https://github.com/truenegative/zonesync/releases) 
-[![license](https://img.shields.io/github/license/truenegative/zonesync.svg?maxAge=2592000)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/truenegative/zonesync.svg?maxAge=2592000?style=flat-square)](https://img.shields.io/github/license/truenegative/zonesync.svg?maxAge=2592000)
+[![GitHub release](https://img.shields.io/github/release/truenegative/font-awesome-webpack-sass.svg?maxAge=2592000?style=flat-square)](https://github.com/truenegative/zonesync/releases) 
+[![license](https://img.shields.io/github/license/truenegative/font-awesome-webpack-sass.svg?maxAge=2592000)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/truenegative/font-awesome-webpack-sass.svg?maxAge=2592000?style=flat-square)](https://img.shields.io/github/license/truenegative/zonesync.svg?maxAge=2592000)
 
 # font-awesome-webpack-sass
 Font awesome configuration and loading package for webpack, using font-awesome (sass)
