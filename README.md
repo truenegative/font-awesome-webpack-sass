@@ -115,7 +115,7 @@ Install `extract-text-webpack-plugin` before using this configuration.
 
 Thanks to everyone who helped out with this project!
 
-If you would like to help contribute to this project, feel free to submit pull requests and help out!
+If you would like to help contribute to this project, feel free to fork it and submit pull requests to help out!
 
 
 ### About TN Labs
