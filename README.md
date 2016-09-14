@@ -5,7 +5,7 @@
 # font-awesome-webpack-sass
 Font awesome configuration and loading package for webpack, using font-awesome (sass)
 
-Based on [font-awesome-webpack-webpack](https://github.com/gowravshekar/font-awesome-webpack) (@gowravshekar)
+Based on [font-awesome-webpack](https://github.com/gowravshekar/font-awesome-webpack) (@gowravshekar)
 
 
 Usage
@@ -48,7 +48,7 @@ You can configurate font-awesome-webpack with two configuration files:
 * `font-awesome.config.scss`
 
 ``` javascript
-require("font-awesome-webpack!./path/to/font-awesome.config.js");
+require("font-awesome-webpack-sass!./path/to/font-awesome.config.js");
 ```
 
 Or simple add it as entry point to your `webpack.config.js`:
@@ -56,7 +56,7 @@ Or simple add it as entry point to your `webpack.config.js`:
 ``` javascript
 module.exports = {
   entry: [
-    "font-awesome-webpack!./path/to/font-awesome.config.js",
+    "font-awesome-webpack-sass!./path/to/font-awesome.config.js",
     "your-existing-entry-point"
   ]
 };
@@ -101,7 +101,7 @@ Example:
 
 ``` javascript
 module.exports = {
-  styleLoader: require('extract-text-webpack-plugin').extract('style-loader', 'css-loader!scss-loader'),
+  styleLoader: require('extract-text-webpack-plugin').extract('style-loader', 'css-loader!sass'),
   styles: {
     ...
   }
