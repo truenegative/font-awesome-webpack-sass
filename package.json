@@ -1,39 +1,39 @@
 {
-    "name": "font-awesome-webpack-sass",
-    "version": "0.0.1",
-    "description": "font-awesome sass package for webpack",
-    "main": "index.js",
-    "loader": "index.loader.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/truenegative/font-awesome-webpack-sass.git"
-    },
-    "keywords": [
-        "font-awesome",
-        "webpack",
-        "sass",
-        "icons"
-    ],
-    "author": {
-        "name": "True Negative",
-        "url": "https://labs.truenegative.com"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/truenegative/font-awesome-webpack-sass/issues"
-    },
-    "dependencies": {
-        "css-loader": "^0.25.0",
-        "sass-loader": "^4.0.0",
-        "style-loader": "^0.13.0"
-    },
-    "peerDependencies": {
-        "font-awesome": ">=4.6.0"
-    },
-    "readme": "",
-    "readmeFilename": "README.md",
-    "homepage": "https://github.com/truenegative/font-awesome-webpack-sass"
+  "name": "font-awesome-webpack-sass",
+  "version": "0.0.2",
+  "description": "font-awesome sass package for webpack",
+  "main": "index.js",
+  "loader": "index.loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truenegative/font-awesome-webpack-sass.git"
+  },
+  "keywords": [
+    "font-awesome",
+    "webpack",
+    "sass",
+    "icons"
+  ],
+  "author": {
+    "name": "True Negative",
+    "url": "https://labs.truenegative.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truenegative/font-awesome-webpack-sass/issues"
+  },
+  "dependencies": {
+    "css-loader": "^0.25.0",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.0"
+  },
+  "peerDependencies": {
+    "font-awesome": ">=4.6.0"
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/truenegative/font-awesome-webpack-sass"
 }
